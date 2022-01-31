@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/0c45d7593936a7b3207a9.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/iamdivyeshh/DivyeshMusicPlayer",
+    "repository": "https://github.com/GUDDUBOSS/DivyeshMusicPlayer",
     "stack": "container",
     "env": {
         "API_ID": {
